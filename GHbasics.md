@@ -16,3 +16,6 @@
 | `git add -A` | Add all new and changed files to the staging area |
 | `git commit -m "[commit message]"` | Commit changes |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
+| `git push` | Push changes to remote repository|
+| `git pull` | Update local repository to the newest commit|
+| `git log` (`--summary`/ `--oneline`) | View changes (detailed/ briefly)
