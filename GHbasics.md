@@ -2,7 +2,7 @@
 ### Background
 [Git](https://git-scm.com) is a version control tool which allows developers to manage their source code history. It is designed for collaboration since it puts the code in an accessible place where users can download, edit, and push it back with its recorded changes. It is also an open-source tool, meaning the software is freely available and may be redistributed and modified.
 
-[GitHub](https://github.com) is a Git repository hosting service, meaning that it stores your Git projects in their servers. Among many features it contains a graphical user interface (GUI) so you don't need the command line to communicate with your repository.
+[GitHub](https://github.com) is a Git repository hosting service, meaning that it stores your Git projects in their servers. Among many features, it contains a graphical user interface (GUI) so you don't need the command line to communicate with your repository.
 
 ### Creating a new project
 
@@ -23,6 +23,8 @@
 | `git push` | Push changes to remote repository|
 | `git pull` | Update local repository to the newest commit|
 | `git log` (`--summary`/ `--oneline`) | View changes (detailed/ briefly)
+
+Tables were taken from [here](https://github.com/joshnh/Git-Commands)
 
 
 
