@@ -1,4 +1,4 @@
-## Computer Basics: The Hardware
+
 
 Whether using a Desktop or a Laptop, most of the hardware in both devices will generally be the same. Some important parts to be aware of are - the CPU, the RAM, and the Hard Drive (HHD or SSD). I will try to provide a basic overview of the functionality of each of these parts and how they all interact.
 
