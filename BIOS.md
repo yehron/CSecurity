@@ -12,7 +12,7 @@ The first step of the BIOS is to run a POST, Power-On Self Test. This checks to 
 
 ### UEFI
 
-UEFI replaced the traditional BIOS on PC's in 2007. BIOS was outdated in that it only supported 2.1 TB drives or less and only ran in 16-bit processor mode, and only has 1 MB of space to execute in. UEFI has a faster boot process, running in 32-bit or 64-bit modes, has a theoretical limit of 9.4 zettabytes, and supports Secure Boot, which means the operating system can be checked for validity to ensure no malware has tampered with the boot process. There is also a new graphical user interface and can use your mouse.
+UEFI replaced the traditional BIOS on PC's in 2007. BIOS was outdated in that it only supported 2.1 TB drives or less and only ran in 16-bit processor mode, and only has 1 MB of space to execute in. UEFI has a faster boot process, running in 32-bit or 64-bit modes, has a theoretical limit of 9.4 zettabytes, and supports Secure Boot, which means the operating system can be checked for validity to ensure no malware has tampered with the boot process. There is also a new graphical user interface and you can use your mouse.
 
 
 
